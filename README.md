@@ -1,3 +1,3 @@
 # grpcdemo
 
-A simple server-client hello chat server using grpc and protobufs.
+A simple server-client hello chat server written in go using grpc and protobufs.
